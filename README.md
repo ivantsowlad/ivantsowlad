@@ -18,24 +18,29 @@
 
 <h3 align="left">On a daily basis I use:</h3>
 
-![Daily Tools](https://go-skill-icons.vercel.app/api/icons?i=clion,pycharm,vscode,git,github,linux,macos,slack&perline=4)
+![Daily Tools](https://skillicons.dev/icons?i=clion,pycharm,vscode,neovim,git,github,linux,apple,slack,chatgpt&theme=dark&perline=5)
 
 <h3 align="left">I am good at:</h3>
 
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,c++,sql,flask,fastapi,selenium,rest&perline=6)
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,postgresql,flask,fastapi,selenium&theme=dark&perline=7)
 
 <h3 align="left">My main specialization - Backend & Automation:</h3>
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,flask,django,postgresql,selenium,linux&perline=7)
+![Backend](https://skillicons.dev/icons?i=python,fastapi,django,flask,postgresql,postman,selenium,c,cpp,bootstrap,html,git,mongodb,sqlite,vim,linux,ubuntu,debian&theme=dark&perline=9)
 
 <h3 align="left">Experience</h3>
 
-- **Senior Business Advisor** — Vodafone (Prague, Czech Republic)  
-  *May 2024 – Present*  
-  Full customer service for business segment (sell and care)
+- **Student** — 42Prague (Prague, Czech Republic)  
+  *Feb 2025 – Present*  
+  Immersive full-time training in software engineering. 
+   - Built low-level programming projects in C & C++.
+   - Gained hands-on experience with Unix/Linux system administration. 
+   - Daily use of Git and peer reviews in collaborative coding environment. 
+   - Strengthened skills in algorithms, debugging, and problem-solving.
 
-- **Deputy Store/Operation Manager** — Vodafone (Prague, Czech Republic)  
-  *Apr 2019 – Apr 2024*
+- **Self-taught Programmer** 
+  *May 2024 - Present*
+  Dedicated time to self-learning and building projects to transition into software development.
 
 - **Senior Technical Advisor (T3)** — Conduent (ACS Ltd.)  
   *Apr 2018 – Apr 2019*  
@@ -43,9 +48,9 @@
 
 <h3 align="left">Education</h3>
 
-- **42 Prague** — *Feb 2025 – Aug 2026*
+- **42Prague** — *Feb 2025 – Present*
 
 <h3 align="left">Courses & Certifications</h3>
 
-- **GitHub Foundations** — DataCamp (Dec 2025)  
+- **GitHub Foundations** — DataCamp (Dec 2025)
 - **100 Days of Code: The Complete Python Pro Bootcamp** — Udemy (May 2024 – Dec 2024)
