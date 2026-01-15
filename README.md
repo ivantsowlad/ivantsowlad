@@ -39,7 +39,7 @@
    - Strengthened skills in algorithms, debugging, and problem-solving.
 
 - **Self-taught Programmer**  
-  *May 2024 - Present*
+  *May 2024 - Present*  
   Dedicated time to self-learning and building projects to transition into software development.
 
 - **Senior Technical Advisor (T3)** — Conduent (ACS Ltd.)  
