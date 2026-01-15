@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vladislav Ivantsov</h1>
+<h3 align="center">An aspiring Python & C developer based in Prague, passionate about modern technologies and clean, efficient code</h3>
 
-<!--
-**ivantsowlad/ivantsowlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
 
-Here are some ideas to get you started:
+- 🧠 I’m currently studying at **[42 Prague](https://www.42prague.com/)**
+- 🌱 I’m currently learning **Python (OOP), C, SQL, and backend development**
+- 💼 I’m currently working as **Senior Business Advisor at Vodafone**
+- 💬 Ask me about **Python, C, backend frameworks, automation, and IT support**
+- 📫 How to reach me: **[ivantsowlad@gmail.com](mailto:ivantsowlad@gmail.com)**
+- ⚡ Fun fact: **I build PCs end-to-end — from component selection to assembly**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:ivantsowlad@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="https://github.com/ivantsowlad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">On a daily basis I use:</h3>
+
+![Daily Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,linux,windows,macos&perline=6)
+
+<h3 align="left">I am good at:</h3>
+
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,sql,postgresql,flask,fastapi,django,selenium,rest&perline=6)
+
+<h3 align="left">My main specialization - Backend & Automation:</h3>
+
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,flask,django,postgresql,selenium,linux&perline=7)
+
+<h3 align="left">Experience</h3>
+
+- **Senior Business Advisor** — Vodafone (Prague, Czech Republic)  
+  *May 2024 – Present*  
+  Full customer service for business segment (sell and care)
+
+- **Deputy Store/Operation Manager** — Vodafone (Prague, Czech Republic)  
+  *Apr 2019 – Apr 2024*
+
+- **Senior Technical Advisor (T3)** — Conduent (ACS Ltd.)  
+  *Apr 2018 – Apr 2019*  
+  Technical support (T3)
+
+<h3 align="left">Education</h3>
+
+- **42 Prague** — *Feb 2025 – Aug 2026*
+
+<h3 align="left">Courses & Certifications</h3>
+
+- **GitHub Foundations** — DataCamp (Dec 2025)  
+- **100 Days of Code: The Complete Python Pro Bootcamp** — Udemy (May 2024 – Dec 2024)
