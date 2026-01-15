@@ -18,7 +18,7 @@
 
 <h3 align="left">On a daily basis I use:</h3>
 
-![Daily Tools](https://skillicons.dev/icons?i=clion,pycharm,vscode,neovim,git,github,linux,apple,slack,chatgpt&theme=dark&perline=5)
+![Daily Tools](https://skillicons.dev/icons?i=clion,pycharm,vscode,neovim,git,github,githubcopilot,linux,apple&theme=dark&perline=4)
 
 <h3 align="left">I am good at:</h3>
 
