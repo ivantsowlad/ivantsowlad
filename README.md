@@ -18,7 +18,7 @@
 
 <h3 align="left">On a daily basis I use:</h3>
 
-![Daily Tools](https://https://go-skill-icons.vercel.app/api/icons?i=clion,pycharm,vscode,neovim,chatgpt,slack,git,github,githubcopilot,apple&perline=5)
+![Daily Tools](https://go-skill-icons.vercel.app/api/icons?i=clion,pycharm,vscode,neovim,chatgpt,slack,git,github,githubcopilot,apple&perline=5)
 
 <h3 align="left">I am good at:</h3>
 
