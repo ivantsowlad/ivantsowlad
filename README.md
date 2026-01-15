@@ -38,7 +38,7 @@
    - Daily use of Git and peer reviews in collaborative coding environment. 
    - Strengthened skills in algorithms, debugging, and problem-solving.
 
-- **Self-taught Programmer** 
+- **Self-taught Programmer** — Online
   *May 2024 - Present*
   Dedicated time to self-learning and building projects to transition into software development.
 
