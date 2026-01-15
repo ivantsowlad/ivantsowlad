@@ -18,15 +18,15 @@
 
 <h3 align="left">On a daily basis I use:</h3>
 
-![Daily Tools](https://skillicons.dev/icons?i=clion,pycharm,vscode,neovim,git,github,githubcopilot,linux,apple&theme=dark&perline=4)
+![Daily Tools](https://https://go-skill-icons.vercel.app/api/icons?i=clion,pycharm,vscode,neovim,chatgpt,slack,git,github,githubcopilot,apple&perline=5)
 
 <h3 align="left">I am good at:</h3>
 
-![Skills](https://skillicons.dev/icons?i=python,c,cpp,postgresql,flask,fastapi,selenium&theme=dark&perline=7)
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,postgresql,flask,fastapi,selenium,linux&theme=dark&perline=8)
 
 <h3 align="left">My main specialization - Backend & Automation:</h3>
 
-![Backend](https://skillicons.dev/icons?i=python,fastapi,django,flask,postgresql,postman,selenium,c,cpp,bootstrap,html,git,mongodb,sqlite,vim,linux,ubuntu,debian&theme=dark&perline=9)
+![Backend](https://skillicons.dev/icons?i=python,fastapi,django,flask,postgresql,postman,selenium,c,cpp,bootstrap,html,git,mongodb,sqlite,vim,ubuntu&theme=dark&perline=8)
 
 <h3 align="left">Experience</h3>
 
