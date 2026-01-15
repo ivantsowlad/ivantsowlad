@@ -8,21 +8,21 @@
 - 💼 I’m currently working as **Senior Business Advisor at Vodafone**
 - 💬 Ask me about **Python, C, backend frameworks, automation, and IT support**
 - 📫 How to reach me: **[ivantsowlad@gmail.com](mailto:ivantsowlad@gmail.com)**
-- ⚡ Fun fact: **I build PCs end-to-end — from component selection to assembly**
+- ⚡  Fact about me: **I build PCs end-to-end — from component selection to assembly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:ivantsowlad@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 <a href="https://github.com/ivantsowlad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/ivantsowladislav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">On a daily basis I use:</h3>
 
-![Daily Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,linux,windows,macos&perline=6)
+![Daily Tools](https://go-skill-icons.vercel.app/api/icons?i=clion,pycharm,vscode,git,github,linux,macos,slack&perline=4)
 
 <h3 align="left">I am good at:</h3>
 
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,sql,postgresql,flask,fastapi,django,selenium,rest&perline=6)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,c++,sql,flask,fastapi,selenium,rest&perline=6)
 
 <h3 align="left">My main specialization - Backend & Automation:</h3>
 
